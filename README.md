@@ -1,6 +1,6 @@
 # MotionLyn
 
-**MotionLyn** adalah aplikasi *web-based* 3D motion graphic dan visual effect (VFX) editor yang berjalan langsung di browser tanpa perlu instalasi *software* tambahan.
+**MotionLyn** adalah aplikasi *web-based* 3D motion graphic dan visual effect (VFX) editor yang berjalan langsung di browser tanpa perlu instalasi *software* tambahan. Kode by Claude AI. 
 
 🌐 **Website / Live Demo:** [motionlyn.my.id](https://motionlyn.my.id)
 
